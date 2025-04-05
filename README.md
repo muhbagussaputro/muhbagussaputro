@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack & Mobile Developer | Kotlin • Java • PHP • Next.js</h3>
 
 <p align="center">
-  <a href="https://github.com/BagusCPaste" target="_blank">
-    <img src="https://img.shields.io/github/followers/BagusCPaste?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/muhbagussaputro" target="_blank">
+    <img src="https://img.shields.io/github/followers/muhbagussaputro?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://linkedin.com/in/gusaja" target="_blank">
     <img src="https://img.shields.io/badge/-Gusaja-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,8 +50,8 @@ Saya pernah mengembangkan aplikasi seperti:
 
 📈 **GitHub Stats**
 
-![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=BagusCPaste&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BagusCPaste&layout=compact&theme=radical)
+![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhbagussaputro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhbagussaputro&layout=compact&theme=radical)
 
 ---
 
